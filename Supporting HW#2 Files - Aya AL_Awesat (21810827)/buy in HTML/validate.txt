@@ -1,0 +1,4 @@
+Ahmad;275;1234123412341234;visa 
+Salem W;043;5963109385987345;mastercard 
+Maysa Riyad;153;7328904328904902;mastercard 
+Saleem Nammari;534;4414100020003000;visa 
